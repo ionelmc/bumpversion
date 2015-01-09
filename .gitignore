@@ -1,7 +1,11 @@
+*.pyc
+*.pyo
 .tox
 _test_run/
 bin/
 include/
 lib/
+build/
+dist/
 .Python
 bumpversion.egg-info/
